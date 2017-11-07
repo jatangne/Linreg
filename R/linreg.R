@@ -68,3 +68,4 @@ linmod.formula <- function(formula, data = list(), ...) {
   est$formula <- formula
   return(est)
 }
+
